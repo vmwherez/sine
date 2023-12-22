@@ -108,11 +108,11 @@ I had thought perhaps we could touch on [openFrameworks](https://openframeworks.
 
 - [Here's how to play a saw wave using RtAudio](http://www.music.mcgill.ca/~gary/rtaudio/playback.html).
 
-### TBD: The follow up C++ repo.
+## triangle: the follow up C++ repo.
 
 This repo will be expanded to include more examples. Again, it's main purpose was to provide an entry point and scaffolding (so that we don't lose people on the first day). 
 
-I will be posting a similar repo for `cmake` with C++ soon. It may just be the RtAudio example above. I have a number of other concepts and resources to introduce. If there is anything jumping out in your mind which isn't introduced here (Faust and Vult come to my mind) it might be because they belong in the follow up repo. That repo will most likely be the intermediary between this one and a demo VST project, but it might be the VST project itself. I want to be able to introduce most of this in one or two hour sessions. 
+I have posted a [similar repo](http://github.com/vmwherez/triangle) for `cmake` with C++ . It may just be the RtAudio example above. I have a number of other concepts and resources to introduce. If there is anything jumping out in your mind which isn't introduced here (Faust and Vult come to my mind) it might be because they belong in the follow up repo. [That repo](http://github.com/vmwherez/triangle) will most likely be the intermediary between this one and a demo VST project, but it might be the VST project itself. I want to be able to introduce most of this in one or two hour sessions. 
 
 #### Designing Audio FX Plugins 2nd Edition
 
